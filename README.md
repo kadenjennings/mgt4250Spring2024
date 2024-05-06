@@ -13,6 +13,15 @@ Author: Kaden Jennings
 
 ### Data Description
 
+  - I got this data from kaggle at this link [Kaggle](https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-ethereum-prices-from-start-to-2023). I then combined the bitcoin and ethereum datasets by date.
+  - Adj Close: amends a stock's closing price to reflect that stock's value after accounting for any corporate actions. It is often used when examining historical returns or doing a detailed analysis of past performance.
+  - Close: cost of shares at the end of the day
+  - High: highest price at which a stock trades over the course of a trading day.
+  - Low: lowest price at which a stock trades over the course of a trading day.
+  - Open: the first executed trade price for that particular day. It is very likely that the open price will not be the same as the previous day's closing price.
+  - Volume: the number of shares traded in a particular stock or other investment
+  - Here are the two datasets that I used: 
+
 ### Interpreting Visualizations
 
 ### Discussion & Summary
