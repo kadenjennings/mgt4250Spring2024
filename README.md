@@ -1,7 +1,7 @@
 # mgt4250Spring2024
 Author: Kaden Jennings
 
-[Google Docs](https://docs.google.com/document/d/1XWA0l183rjXBjanZw_CqF_jhfSnzYjtJygXTrwkuA4Q/edit)
+[Tableau Public](https://public.tableau.com/app/profile/kaden.jennings/vizzes)
 
 ### this repository is for the course project of MGT 4250 at Elon University.
 
