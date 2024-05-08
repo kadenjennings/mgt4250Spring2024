@@ -3,9 +3,8 @@ Author: Kaden Jennings
 
 [Tableau Public](https://public.tableau.com/app/profile/kaden.jennings/vizzes)
 
-### this repository is for the course project of MGT 4250 at Elon University.
+### This repository is for the course project of MGT 4250 at Elon University.
 
-## Project description
 ### Questions of interest
   - Should you invest in Bitcoin or Ethereum?
 ### Importance Statement
